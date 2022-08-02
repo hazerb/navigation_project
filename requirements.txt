@@ -1,0 +1,7 @@
+python-mysqldb
+libmysqlclient-dev
+django
+mysql-server
+djangorestframework
+python-memcached
+libcurl4
